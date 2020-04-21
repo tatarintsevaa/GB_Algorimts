@@ -73,13 +73,12 @@ class Tree
             if (is_numeric($symbol)) {
                 $number = null;
                 while (is_numeric($arrExp[$i])) {
-                    $number .= $arrExp[$i++]
+                    $number .= $arrExp[$i++];
                 }
                 $i--;
                 $this->insert($number);
             }
 
-            if ()
         }
 
 
@@ -124,4 +123,4 @@ class toolFunc
 
 $exp = '(x+42)^2+7*y-z';
 $tree = new Tree($exp);
-var_dump($tree->fillTree());
+//var_dump($tree->fillTree());
