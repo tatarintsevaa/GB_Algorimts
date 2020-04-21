@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94f75c0a-fb0e-4910-8b3e-c9987187b5d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1aGhDwPxOz6bh1Ltgxh1f9N21dh" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.PHP" />
+  </component>
+  <component name="RunManager" selected="PHP Script.tree.php">
+    <configuration name="SearchTest.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Search/SearchTest.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="fib.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Recursion/fib.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="tree.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Recursion/tree.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.tree.php" />
+        <item itemvalue="PHP Script.fib.php" />
+        <item itemvalue="PHP Script.SearchTest.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94f75c0a-fb0e-4910-8b3e-c9987187b5d9" name="Default Changelist" comment="" />
+      <created>1586367721788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586367721788</updated>
+      <workItem from="1586367723046" duration="8338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1576" y="145" key="#Web_Browsers" timestamp="1586375083250">
+      <screen x="-1920" y="30" width="1536" height="834" />
+    </state>
+    <state x="-1576" y="145" key="#Web_Browsers/0.30.1920.1050/-1920.30.1536.834@-1920.30.1536.834" timestamp="1586375083250" />
+    <state width="1003" height="263" key="GridCell.Tab.0.bottom" timestamp="1586377127491">
+      <screen x="-1920" y="30" width="1536" height="834" />
+    </state>
+    <state width="1003" height="263" key="GridCell.Tab.0.bottom/0.30.1920.1050/-1920.30.1536.834@-1920.30.1536.834" timestamp="1586377127491" />
+    <state width="1003" height="263" key="GridCell.Tab.0.center" timestamp="1586377127490">
+      <screen x="-1920" y="30" width="1536" height="834" />
+    </state>
+    <state width="1003" height="263" key="GridCell.Tab.0.center/0.30.1920.1050/-1920.30.1536.834@-1920.30.1536.834" timestamp="1586377127490" />
+    <state width="1003" height="263" key="GridCell.Tab.0.left" timestamp="1586377127489">
+      <screen x="-1920" y="30" width="1536" height="834" />
+    </state>
+    <state width="1003" height="263" key="GridCell.Tab.0.left/0.30.1920.1050/-1920.30.1536.834@-1920.30.1536.834" timestamp="1586377127489" />
+    <state width="1003" height="263" key="GridCell.Tab.0.right" timestamp="1586377127491">
+      <screen x="-1920" y="30" width="1536" height="834" />
+    </state>
+    <state width="1003" height="263" key="GridCell.Tab.0.right/0.30.1920.1050/-1920.30.1536.834@-1920.30.1536.834" timestamp="1586377127491" />
+    <state x="-1432" y="138" key="SettingsEditor" timestamp="1586368081349">
+      <screen x="-1920" y="30" width="1536" height="834" />
+    </state>
+    <state x="-1432" y="138" key="SettingsEditor/0.30.1920.1050/-1920.30.1536.834@-1920.30.1536.834" timestamp="1586368081349" />
+  </component>
+</project>
