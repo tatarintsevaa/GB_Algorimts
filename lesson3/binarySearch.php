@@ -4,10 +4,11 @@ function binarySearch($myArray)
 {
     $start = 0;
     $end = count($myArray) - 1;
-
+    $iterationCount = 0;
     while ($start <= $end) {
+        $iterationCount++;
         $middle = floor(($start + $end) / 2);
-        echo 'проверяеться элемент - ' . $myArray[$middle] . '</br>';
+        echo $iterationCount . ') проверяеться элемент - ' . $myArray[$middle] . '</br>';
         if (($myArray[$middle + 1] - ($myArray[$middle] )) == 2) {
             return $myArray[$middle] + 1;
         }

@@ -4,9 +4,9 @@ include 'linearSearch.php';
 include 'binarySearch.php';
 
 
-$myArray = getArray(8000000);
-$randElem = rand(0,8000000);
-array_splice($myArray, 6869138,1);
+$myArray = getArray(12225);
+$randElem = rand(0,(count($myArray) - 1));
+array_splice($myArray, $randElem,1);
 //print_r($myArray);
 
 $start = microtime(true);
